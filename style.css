@@ -1,0 +1,20 @@
+h1{
+    font-weight: bold;
+    font-style: italic;
+    color: gold;
+}
+
+sub{
+    font-size: 12px;
+    font-weight: bold;
+}
+body{
+    background: rgb(85, 47, 255);
+}
+
+
+input{
+    background: indianred;
+}
+
+
